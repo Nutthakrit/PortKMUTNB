@@ -954,6 +954,7 @@
   border: 1px none;
   display: flex;
   width: fit-content;
+  z-index: 1;
 }
 
 .home .text-7 {
